@@ -1,4 +1,5 @@
-![](HelloWorld.gif)
+<img align="left" alt="GIF" src="HelloWorld.gif" />
+
 <!--
 **Glyan/Glyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
