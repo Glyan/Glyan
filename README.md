@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="HelloWorld.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <!--
 **Glyan/Glyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
