@@ -1,5 +1,5 @@
-<img  alt="GIF" src="https://media.giphy.com/media/PiQJXtYLYSfybVwxTA/giphy.gif" />
-<br/>
+![Hello World](https://media.giphy.com/media/PiQJXtYLYSfybVwxTA/giphy.gif)
+---
 <a href="https://twitter.com/pam27jr">
   <img  alt="Glyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,6 +10,7 @@
   <img  alt="Glyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+
 
 <!--
 **Glyan/Glyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
