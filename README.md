@@ -12,7 +12,7 @@
 <br/> 
 <p>
 
-I'm a computer engineer currently working as a PWAs and SAP addOns developer, but the repos you see here are not work related. These are me trying to do some cool stuff with wathever comes to mind and learning something (and then a little more) along the way :)
+I'm a computer engineer currently working as a backend developer, but the repos you see here are not work related. These are me trying to do some cool stuff with whatever comes to mind and learning something (and then a little more) along the way :)
 </p>
 
 <!--
